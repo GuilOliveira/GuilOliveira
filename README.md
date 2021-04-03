@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DzTjmqc" data-context="false" ><a href="//imgur.com/a/DzTjmqc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://cdn.discordapp.com/attachments/280454759801028609/828005626209763369/welcome2.gif">
 <br>
 # Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Guilherme!!!<img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">
 
