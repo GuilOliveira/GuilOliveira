@@ -3,19 +3,19 @@
 <h1 align="center"> Hello World!<img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">
   <br>
   <a href="mailto:flashnat.br@gmail.com">
-  <img align="center" alt="Send me a email!" width="40px" src="https://img.icons8.com/nolan/64/gmail.png" />
+  <img align="center" alt="Send me a email!" width="40px" src="https://img.icons8.com/nolan/64/gmail.png"/> 
 <a/>
   <a href="www.linkedin.com/in/GuilOliveira">
-  <img align="center" alt="My linkedin" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png"/>
+  <img align="center" alt="My linkedin" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png"/> 
 </a>
 <a href="https://www.instagram.com/guil.jpg/">
-  <img align="center" alt="My Instagram" width="40px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+  <img align="center" alt="My Instagram" width="40px" src="https://img.icons8.com/nolan/64/instagram-new.png"/> 
 </a>
 <a href="https://wa.me/+5588994835164">
-  <img align="center" alt="Send me a zap" width="40px" src="https://img.icons8.com/nolan/64/whatsapp.png"/>
+  <img align="center" alt="Send me a zap" width="40px" src="https://img.icons8.com/nolan/64/whatsapp.png"/> 
 </a>
 <a href="https://t.me/GuilOliveira">
-  <img align="center" alt="Send me a telegram" width="40px" src="https://img.icons8.com/nolan/64/telegram-app.png"/>
+  <img align="center" alt="Send me a telegram" width="40px" src="https://img.icons8.com/nolan/64/telegram-app.png"/> 
 </a>
 <a href="https://discordapp.com/users/267490398790877185/">
   <img align="center" src="https://img.icons8.com/nolan/64/discord-logo.png" alt="Send me a Discord DM" width="40px">
