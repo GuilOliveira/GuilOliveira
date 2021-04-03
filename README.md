@@ -1,6 +1,7 @@
+<h1>
 <img src="https://cdn.discordapp.com/attachments/280454759801028609/828005626209763369/welcome2.gif">
-<br>
-<h1 align="center"> Hello World!<img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">
+<br></h1>
+<h2 align="center"> Hello World!<img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">
   <br>
   <a href="mailto:flashnat.br@gmail.com">
   <img align="center" alt="Send me a email!" width="40px" src="https://img.icons8.com/nolan/64/gmail.png"/> 
