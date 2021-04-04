@@ -7,7 +7,7 @@
   <img align="center" alt="Send me a email!" width="20px" src="https://media.discordapp.net/attachments/529713447353450514/828097525231648768/mail.png"/> 
 <a/>
   <a href="www.linkedin.com/in/GuilOliveira">
-  <img align="center" alt="My linkedin" width="16px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097526736617482/linkedin.png"/> 
+  <img align="center" alt="My linkedin" width="20px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097526736617482/linkedin.png"/> 
 </a>
 <a href="https://www.instagram.com/guil.jpg/">
   <img align="center" alt="My Instagram" width="16px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097528795889674/instaa.png"/> 
