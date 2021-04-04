@@ -4,7 +4,7 @@
 <h1 align="center"> 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮!<img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">
   <br>
   <a href="mailto:flashnat.br@gmail.com">
-  <img align="center" alt="Send me a email!" width="16px" src="https://media.discordapp.net/attachments/529713447353450514/828097525231648768/mail.png"/> 
+  <img align="center" alt="Send me a email!" width="20px" src="https://media.discordapp.net/attachments/529713447353450514/828097525231648768/mail.png"/> 
 <a/>
   <a href="www.linkedin.com/in/GuilOliveira">
   <img align="center" alt="My linkedin" width="16px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097526736617482/linkedin.png"/> 
