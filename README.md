@@ -1,7 +1,7 @@
 <h1>
 <img src="https://cdn.discordapp.com/attachments/280454759801028609/828005626209763369/welcome2.gif">
 <br></h1>
-<h1 align="center"> 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮!<img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">
+<h1 align="center"> 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮!
   <br>
   <a href="mailto:flashnat.br@gmail.com">
   <img align="center" alt="Send me a email!" width="20px" src="https://media.discordapp.net/attachments/529713447353450514/828097525231648768/mail.png"/> 
@@ -28,4 +28,6 @@
   </em> 
 <h2 align="center"><img src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" height="60px"><em> I really hope that you like my little corner <3</em> <img src="https://www.fightersgeneration.com/characters/dio-walkb2.gif" height="60px">
   </h2>
+  <h5>
+    ><img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px">&nbsp;About me:
 
