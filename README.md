@@ -29,7 +29,7 @@
 <h2 align="center"><img src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" height="60px"><em> I really hope that you like my little corner <3</em> <img src="https://www.fightersgeneration.com/characters/dio-walkb2.gif" height="60px">
   </h2><h3>
 <img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px"><b> About me:</b></h3>
-  • I really enjoy playing videogames, watching anime, movies or some series<br> and when coding i like to hear good songs (every genre) or podcasts😋.<br>
+  •<img src="https://tenor.com/bvMnT.gif"> I really enjoy playing videogames, watching anime, movies or some series<br> and when coding i like to hear good songs (every genre) or podcasts😋.<br>
   • Currently working with python and constantly finding new library and frameworks<br> (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
   • Now i'm studing web frameworks in python like django or flask, and javascript🧐.<br>
   • I am really excited in Javascript, C#, C, Java and tecnologies like ReactJs, Angular and son on🤔...<br>
