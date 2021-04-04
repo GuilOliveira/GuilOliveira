@@ -26,5 +26,5 @@
   <em>
     My name is <b>Guilherme</b>, but you can call me <b>Gui</b> if you prefer. Since early, I'm in love about technology, which led me to a <b>Computer Network</b> course in high school and course <b>Information Systems</b> in college. I really like programming <b>new</b> and <b>creative</b> things and turning my ideas into solutions is one of the greatest pleasures I have... 
   </em> 
-
+<h3 align="center"><img src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" width="60px"> I really hope that you like my little corner <3 <img src="https://www.fightersgeneration.com/characters/dio-walkb2.gif" width="60px">
 
