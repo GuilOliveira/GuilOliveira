@@ -28,7 +28,7 @@
   </em> 
 <h2 align="center"><img src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" height="60px"><em> I really hope that you like my little corner <3</em> <img src="https://www.fightersgeneration.com/characters/dio-walkb2.gif" height="60px">
   </h2>
-<img src="https://data.whicdn.com/images/182301398/original.gif" align="right" width="360px">
+<img src="https://i.pinimg.com/originals/16/74/db/1674dbae45cd38f3d3b4c00dc8616bd7.gif" align="right" width="360px">
 <h3 align="center">
 <img src="https://media.discordapp.net/attachments/529713447353450514/723271049268953138/xd.gif" width="40px"><b>  About me:  </b><img src="https://cdn.discordapp.com/attachments/529713447353450514/827300869829427210/cadeirudo.gif" width="40px"></h3>
 </div>
