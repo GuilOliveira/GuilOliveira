@@ -27,8 +27,8 @@
     My name is <b>Guilherme</b>, but you can call me <b>Gui</b> if you prefer. Since early, I'm in love about technology, which led me to a <b>Computer Network</b> course in high school and course <b>Information Systems</b> in college. I really like programming <b>new</b> and <b>creative</b> things and turning my ideas into solutions is one of the greatest pleasures I have... 
   </em> 
 <h2 align="center"><img src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" height="60px"><em> I really hope that you like my little corner <3</em> <img src="https://www.fightersgeneration.com/characters/dio-walkb2.gif" height="60px">
-  </h2><h3>
-<img src="https://media.tenor.com/images/fedb050f23606717521e94cb23ddb37d/tenor.gif" width="40px"><b align="center">About me:</b><img src="https://media.tenor.com/images/fedb050f23606717521e94cb23ddb37d/tenor.gif" width="40px" align="right"></h3>
+  </h2><h3 align="center">
+<img src="https://media.tenor.com/images/fedb050f23606717521e94cb23ddb37d/tenor.gif" width="40px"><b>  About me:  </b><img src="https://media.tenor.com/images/fedb050f23606717521e94cb23ddb37d/tenor.gif" width="40px"></h3>
   <p>
   •<img src="https://media.tenor.com/images/9b4b12f7a268ef2897f0f355131af1b8/tenor.gif" width="20px"> I really enjoy playing videogames, watching anime, movies or some series<br> and when coding i like to hear good songs (every genre) or podcasts😋.<br>
   •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="20px"> Currently working with python and constantly finding new library and frameworks<br> (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
