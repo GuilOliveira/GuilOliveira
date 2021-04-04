@@ -31,11 +31,11 @@
 <img src="https://cdn.discordapp.com/attachments/529713447353450514/723271049268953138/xd.gif" width="30px"><b> About me:</b></h3>
   <p>
   •<img src="https://media.tenor.com/images/9b4b12f7a268ef2897f0f355131af1b8/tenor.gif" width="15px"> I really enjoy playing videogames, watching anime, movies or some series<br> and when coding i like to hear good songs (every genre) or podcasts😋.<br>
-  • Currently working with python and constantly finding new library and frameworks<br> (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
+  •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="15px"> Currently working with python and constantly finding new library and frameworks<br> (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
   • Now i'm studing web frameworks in python like django or flask, and javascript🧐.<br>
-  • <img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="15px">I am really excited in Javascript, C#, C, Java and tecnologies like ReactJs, Angular and son on🤔...<br>
+  • <img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="15px"> I am really excited in Javascript, C#, C, Java and tecnologies like ReactJs, Angular and son on🤔...<br>
   • Looking for help in django, unity and js😅.<br>
-  • Looking collaborate in every project that look fun or creative😊.<br>
+  •<img src="https://media.tenor.com/images/4939b6b4fdfae79d43a2be736a7e0bfb/tenor.gif" width="15px"> Looking collaborate in every project that look fun or creative😊.<br>
   • Trying to be a fullstack software engineer and a game developer😄.<br></p>
   
 
