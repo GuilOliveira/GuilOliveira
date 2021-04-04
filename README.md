@@ -10,16 +10,16 @@
   <img align="center" alt="My linkedin" width="20px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097526736617482/linkedin.png"/> 
 </a>
 <a href="https://www.instagram.com/guil.jpg/">
-  <img align="center" alt="My Instagram" width="16px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097528795889674/instaa.png"/> 
+  <img align="center" alt="My Instagram" width="20px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097528795889674/instaa.png"/> 
 </a>
 <a href="https://wa.me/+5588994835164">
-  <img align="center" alt="Send me a zap" width="16px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097530889109524/zap.png"/> 
+  <img align="center" alt="Send me a zap" width="20px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097530889109524/zap.png"/> 
 </a>
 <a href="https://t.me/GuilOliveira">
-  <img align="center" alt="Send me a telegram" width="16px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097522878775316/telegram.png"/> 
+  <img align="center" alt="Send me a telegram" width="20px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097522878775316/telegram.png"/> 
 </a>
 <a href="https://discordapp.com/users/267490398790877185/">
-  <img align="center" src="https://cdn.discordapp.com/attachments/529713447353450514/828097520995270706/discord.png" alt="Send me a Discord DM" width="16px">
+  <img align="center" src="https://cdn.discordapp.com/attachments/529713447353450514/828097520995270706/discord.png" alt="Send me a Discord DM" width="20px">
 </a>
 </h1>
 <p align="center">
