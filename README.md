@@ -30,7 +30,7 @@
   </h2>
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://media.discordapp.net/attachments/529713447353450514/723271049268953138/xd.gif" width="40px">
-<b>  About me:  </b>
+  About me:  
 <img src="https://cdn.discordapp.com/attachments/529713447353450514/827300869829427210/cadeirudo.gif" width="40px">
 </div>
   <p>
@@ -40,4 +40,4 @@
   •<img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="20px"> I am really excited in C#, C, Java, ReactJs, Angular and son on🤔...<br>
   •<img src="https://media.tenor.com/images/1b54fab10438399c26a8456d004db3e7/tenor.gif" width="20px"> Looking for help in django, unity and js😅.<br>
   •<img src="https://media.tenor.com/images/4939b6b4fdfae79d43a2be736a7e0bfb/tenor.gif" width="20px"> Looking collaborate in every project that look fun or creative😊.<br>
-  •<img src="https://media.tenor.com/images/412be5794efd1da7c2fae52c3f0c4719/tenor.gif" width="20px"> Trying to be a fullstack software engineer and a game developer😄.<br></p>
+  •<img src="https://media.tenor.com/images/412be5794efd1da7c2fae52c3f0c4719/tenor.gif" width="20px"> Trying to be a fullstack software engineer and a game developer😄.</p>
