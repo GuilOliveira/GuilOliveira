@@ -34,7 +34,7 @@
   •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="15px"> Currently working with python and constantly finding new library and frameworks<br> (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
   •<img src="https://media.tenor.com/images/9f604f25c8c80de2c3fe5d7a39621ded/tenor.gif" width="15px"> Now i'm studing web frameworks in python like django or flask, and javascript🧐.<br>
   • <img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="15px"> I am really excited in Javascript, C#, C, Java and tecnologies like ReactJs, Angular and son on🤔...<br>
-  • Looking for help in django, unity and js😅.<br>
+  •<img src="https://media.tenor.com/images/1b54fab10438399c26a8456d004db3e7/tenor.gif" width="15px"> Looking for help in django, unity and js😅.<br>
   •<img src="https://media.tenor.com/images/4939b6b4fdfae79d43a2be736a7e0bfb/tenor.gif" width="15px"> Looking collaborate in every project that look fun or creative😊.<br>
   •<img src="https://media.tenor.com/images/412be5794efd1da7c2fae52c3f0c4719/tenor.gif" width="15px"> Trying to be a fullstack software engineer and a game developer😄.<br></p>
   
