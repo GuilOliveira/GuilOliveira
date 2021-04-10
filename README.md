@@ -34,7 +34,7 @@
 </div>
   <p>
   •<img src="https://media.tenor.com/images/9b4b12f7a268ef2897f0f355131af1b8/tenor.gif" width="20px"> I really enjoy playing videogames, watching anime, movies or some series and when coding i like to hear good songs (every genre) or podcasts😋.<br>
-  •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="20px"> Currently working with python and constantly finding new library and frameworks (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
+  •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="20px"> Currently working with python and constantly finding new libraries and frameworks (discord.py, selenium, matplotlib, pygame, tkinter and and so on...🥰)<br>
   •<img src="https://media.tenor.com/images/9f604f25c8c80de2c3fe5d7a39621ded/tenor.gif" width="20px"> Now i'm studing web frameworks in python like django or flask, and javascript🧐.<br>
   •<img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="20px"> I am really excited about C#, C, Java, ReactJs, Angular and son on🤔...<br>
   •<img src="https://media.tenor.com/images/1b54fab10438399c26a8456d004db3e7/tenor.gif" width="20px"> Looking for help in django, unity and js😅.<br>
