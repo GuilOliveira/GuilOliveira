@@ -3,7 +3,7 @@
 <br></h1>
 <h1 align="center"> 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮!
   <br>
-  <a href="mailto:flashnat.br@gmail.com">
+  <a href="mailto:guiloliveira343@gmail.com">
   <img align="center" alt="Send me a email!" width="20px" src="https://media.discordapp.net/attachments/529713447353450514/828097525231648768/mail.png"/> 
 <a/>
   <a href="www.linkedin.com/in/GuilOliveira">
