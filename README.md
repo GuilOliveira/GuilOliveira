@@ -39,4 +39,4 @@
   •<img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="20px" height="26px"> I am really excited about C# and gamedev 🤔...<br>
   •<img src="https://media.tenor.com/images/1b54fab10438399c26a8456d004db3e7/tenor.gif" width="20px" height="26px"> Looking for help in c++ and SDL2 😅.<br>
   •<img src="https://media.tenor.com/images/4939b6b4fdfae79d43a2be736a7e0bfb/tenor.gif" width="20px" height="26px"> Would like to participate in any project that looks fun and creative 😊.<br>
-  •<img src="https://media.tenor.com/images/412be5794efd1da7c2fae52c3f0c4719/tenor.gif" width="20px" height="26px"> Trying to be a software engineer and a game developer😄.</p>
+  •<img src="https://media.tenor.com/images/412be5794efd1da7c2fae52c3f0c4719/tenor.gif" width="24px" height="30px"> Trying to be a software engineer and a game developer😄.</p>
