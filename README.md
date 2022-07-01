@@ -33,7 +33,7 @@
 <img src="https://media.discordapp.net/attachments/529713447353450514/723271049268953138/xd.gif" width="40px"><b>  About me:  </b><img src="https://cdn.discordapp.com/attachments/529713447353450514/827300869829427210/cadeirudo.gif" width="40px"></h3>
 </div>
   <p>
-  •<img src="https://media.tenor.com/images/9b4b12f7a268ef2897f0f355131af1b8/tenor.gif" maxwidth="20px"> I really enjoy playing videogames, watching anime, movies or some series and when coding i like to hear good songs (every genre) or podcasts😋.<br>
+  •<img src="https://media.tenor.com/images/9b4b12f7a268ef2897f0f355131af1b8/tenor.gif" width="20px" height="20px"I really enjoy playing videogames, watching anime, movies or some series and when coding i like to hear good songs (every genre) or podcasts😋.<br>
   •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="20px"> Currently working with python and constantly finding new libraries and frameworks (discord.py, selenium, sockets, pygame, tkinter and and so on...🥰)<br>
   •<img src="https://media.tenor.com/images/9f604f25c8c80de2c3fe5d7a39621ded/tenor.gif" width="20px"> Now i'm studing web (HTML,CSS,JS), and C++🧐.<br>
   •<img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="20px"> I am really excited about C#, C++, Java, ReactJs and son on🤔...<br>
