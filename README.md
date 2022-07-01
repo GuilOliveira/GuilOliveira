@@ -36,7 +36,7 @@
   •<img src="https://media.tenor.com/images/9b4b12f7a268ef2897f0f355131af1b8/tenor.gif" width="20px" height="26px">I really enjoy playing videogames, watching anime, movies or some series. And when coding I like to hear good songs (every genre) or podcasts 😋.<br>
   •<img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="20px" height="26px"> Currently engaged in college, but in my free time I enjoy testing new languages and libs 🥳.<br>
   •<img src="https://media.tenor.com/images/9f604f25c8c80de2c3fe5d7a39621ded/tenor.gif" width="20px" height="26px"> Now I'm studing React, React Native and some algorithms 🧐.<br>
-  •<img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="20px" height="26px"> I am really excited about C# and gamedev 🤔...<br>
+  •<img src="https://media.tenor.com/images/ab82fa21f9fa43f7e9b7b165286046cd/tenor.gif" width="20px" height="26px"> I am really excited about C#, Godot and gamedev 🤔...<br>
   •<img src="https://media.tenor.com/images/1b54fab10438399c26a8456d004db3e7/tenor.gif" width="20px" height="26px"> Looking for help in c++ and SDL2 😅.<br>
   •<img src="https://media.tenor.com/images/4939b6b4fdfae79d43a2be736a7e0bfb/tenor.gif" width="20px" height="26px"> Would like to participate in any project that looks fun and creative 😊.<br>
   •<img src="https://media.tenor.com/images/412be5794efd1da7c2fae52c3f0c4719/tenor.gif" width="24px" height="30px"> Trying to be a software engineer and a game developer😄.</p>
