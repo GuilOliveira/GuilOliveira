@@ -15,7 +15,7 @@
 </h1>
 <p align="center">
   <em>
-    My name is <b>Guilherme</b>, but you can call me <b>Guil</b>! I've had a passion for technology from an early age, which led me to pursue a degree in <b>Computer Networks</b> during high school and later, <b>Information Systems</b> in college. I love solving problems with<b>creative</b> solutions!
+    My name is <b>Guilherme</b>, but you can call me <b>Guil</b>! I've had a passion for technology from an early age, which led me to pursue a degree in <b>Computer Networks</b> during high school and later, <b>Information Systems</b> in college. I love solving problems with <b>creative</b> solutions!
   </em> 
 <h2 align="center"><img src="./images/jotaro.webp" height="60px"><em> I hope you like my little corner <3</em> <img src="./images/dio.gif" height="60px">
   </h2>
