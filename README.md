@@ -33,5 +33,5 @@
   •<img src="./images/topics/sonic-3.gif" width="20px" height="26px"> Now I'm studying C# and Express.js 🧐.<br>
   •<img src="./images/topics/sonic-4.gif" width="20px" height="26px"> Thinking about Godot and Rust 🤔...<br>
   •<img src="./images/topics/sonic-5.gif" width="20px" height="26px"> Looking for help in .NET 😅.<br>
-  •<img src="./images/topics/sonic-6.gif" width="20px" height="26px"> I would like to participate in any project that looks fun and creative 😊.<br>
+  •<img src="./images/topics/sonic-6.gif" width="20px" height="26px"> Would like to participate in any project that looks fun and creative 😊.<br>
   •<img src="./images/topics/sonic-7.gif" width="24px" height="30px"> Trying to be a software engineer and a game developer 😄.</p>
