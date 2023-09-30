@@ -16,17 +16,17 @@
     My name is <b>Guilherme</b>, but you can call me <b>Guil</b>! I've had a passion for technology from an early age, which led me to pursue a degree in <b>Computer Networks</b> during high school and later, <b>Information Systems</b> in college. I love solving problems with <b>creative</b> solutions!
   </em> 
   </p>
-<center>
+<div align="center">
     <img src="./images/jotaro.webp" height="60px">
     <big><b> I hope you like my little corner <3 </b></big> 
     <img src="./images/dio.gif" height="60px">
-</center>
+</div>
 <img src="./images/sif.gif" align="right">
-<center>
-    <img src="./images/blue-guy.gif" width="40px">
-    <b>About me:</b>
-    <img src="./images/skull-guy.gif" width="40px">
-</center>
+<div align="center">
+    <img src="./images/blue-guy.gif" width="40px" alt="Blue Guy">
+    <strong>About me:</strong>
+    <img src="./images/skull-guy.gif" width="40px" alt="Skull Guy">
+</div>
   <p>
   •<img src="./images/topics/sonic-1.gif" width="20px" height="26px"> I'm passionate about video games. I also enjoy watching anime and movies, studying game development, and creative programming 🤓.<br>
   •<img src="./images/topics/sonic-2.gif" width="20px" height="26px"> Currently, I'm engaged in college, but in my free time, I enjoy testing new languages and libraries 🥳.<br>
