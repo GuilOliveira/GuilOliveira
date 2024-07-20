@@ -1,14 +1,14 @@
 <img src="./images/welcome.gif" width="100%">
-<h1 align="center"> 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮!
+<h1 align="center"> How to reach me!
   <br>
   <a href="mailto:guiloliveira343@gmail.com">
-  <img align="center" alt="Send me an email!" width="20px" src="https://media.discordapp.net/attachments/529713447353450514/828097525231648768/mail.png"/> 
+  <img align="center" alt="Send me an email!" width="80px" src="https://img.icons8.com/clouds/100/new-post.png"/> 
 <a/>
   <a href="www.linkedin.com/in/GuilOliveira">
-  <img align="center" alt="My LinkedIn" width="20px" src="https://cdn.discordapp.com/attachments/529713447353450514/828097526736617482/linkedin.png"/> 
+  <img align="center" alt="My LinkedIn" width="85px" src="https://img.icons8.com/clouds/100/linkedin.png"/> 
 </a>
 <a href="https://discordapp.com/users/267490398790877185/">
-  <img align="center" src="https://cdn.discordapp.com/attachments/529713447353450514/828097520995270706/discord.png" alt="Send me a Discord DM" width="20px">
+  <img align="center" src="https://img.icons8.com/clouds/100/discord-logo.png" alt="Send me a Discord DM" width="80px">
 </a>
 </h1>
 <p align="center">
