@@ -1,17 +1,14 @@
 <img src="./images/welcome.gif" width="100%">
-<h1 align="center"> How to reach me!
-
-</h1>
-<p align="center">
-  <em>
-    My name is <b>Guilherme</b>, but you can call me <b>Guil</b>! I've had a passion for technology from an early age, which led me to pursue a degree in <b>Computer Networks</b> during high school and later, <b>Information Systems</b> in college. I love solving problems with <b>creative</b> solutions!
-  </em> 
-  </p>
 <div align="center">
     <img src="./images/jotaro.webp" height="60px">
     <big><b> I hope you like my little corner <3 </b></big> 
     <img src="./images/dio.gif" height="60px">
 </div>
+<p align="center">
+  <em>
+    My name is <b>Guilherme</b>, but you can call me <b>Guil</b>! I've had a passion for technology from an early age, which led me to pursue a degree in <b>Computer Networks</b> during high school and later, <b>Information Systems</b> in college. I love solving problems with <b>creative</b> solutions!
+  </em> 
+  </p>
 <img src="./images/sif.gif" align="right">
 <div align="center">
     <img src="./images/blue-guy.gif" width="40px" alt="Blue Guy">
