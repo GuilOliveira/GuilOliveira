@@ -7,9 +7,6 @@
   <a href="www.linkedin.com/in/GuilOliveira">
   <img align="center" alt="My LinkedIn" width="85px" src="https://img.icons8.com/clouds/100/linkedin.png"/> 
 </a>
-<a href="https://discordapp.com/users/267490398790877185/">
-  <img align="center" src="https://img.icons8.com/clouds/100/discord-logo.png" alt="Send me a Discord DM" width="80px">
-</a>
 </h1>
 <p align="center">
   <em>
