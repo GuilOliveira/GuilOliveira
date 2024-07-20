@@ -1,12 +1,6 @@
 <img src="./images/welcome.gif" width="100%">
 <h1 align="center"> How to reach me!
-  <br>
-  <a href="mailto:guiloliveira343@gmail.com">
-  <img align="center" alt="Send me an email!" width="80px" src="https://img.icons8.com/clouds/100/new-post.png"/> 
-<a/>
-  <a href="www.linkedin.com/in/GuilOliveira">
-  <img align="center" alt="My LinkedIn" width="85px" src="https://img.icons8.com/clouds/100/linkedin.png"/> 
-</a>
+
 </h1>
 <p align="center">
   <em>
